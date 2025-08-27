@@ -22,6 +22,7 @@ int main() {
     // Implemente a lógica para solicitar ao usuário que insira os dados das cidades
     // utilizando a função scanf para capturar as entradas.
     // utilize o código do primeiro desafio
+    printf("novo comit: \n")
 
     printf ("estado: \n");
     scanf ("%s", estado);
