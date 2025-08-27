@@ -15,8 +15,6 @@ int main() {
     int numero_de_pontos_turisticos;
     int populacaoA, populacaoB;
 
-    printf("novo comit: \n");
-
     printf ("estado: \n");
     scanf ("%s", estado);
 
